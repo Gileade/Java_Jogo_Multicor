@@ -1,6 +1,6 @@
-# 6d756c7469636f72 - O Jogo
+# Multicor - O Jogo
 
-Jairo está jogando um jogo chamado 6d756c7469636f72.
+Jairo está jogando um jogo chamado Multicor.
 
 O jogo consiste em 6 quadrados coloridos com as cores `VERMELHO`, `VERDE`, `AZUL`, `AMARELO`, `ROXO` e `ROSA`, dispostas em um espaço pequeno, de forma que você pode pular de qualquer cor para qualquer cor.
 
